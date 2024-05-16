@@ -1,7 +1,7 @@
 import raect from 'react'
 const NewUsersPage = () => {
                return (
-                              <div>NewUsersPage</div>
+                              <div>New Users Page</div>
                )
 }
 export  default NewUsersPage
